@@ -1,2 +1,2 @@
 # Arduino IoT Cloud Bootcamp
-Code and Resources for the Arduino IoT Cloud Bootcamp Course
+Code, documentation and resources for the Ultimate Guide to Raspberry Pi Course
