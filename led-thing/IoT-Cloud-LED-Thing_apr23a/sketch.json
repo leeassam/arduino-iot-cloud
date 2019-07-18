@@ -1,0 +1,1 @@
+{"cpu":{"fqbn":"arduino:samd:mkrwifi1010","name":"Arduino MKR WiFi 1010","port":""},"secrets":[{"name":"SECRET_SSID","value":"","isOptional":false},{"name":"SECRET_PASS","value":"","isOptional":false}]}

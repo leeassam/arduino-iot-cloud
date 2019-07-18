@@ -1,0 +1,1 @@
+{"secrets":[{"name":"SECRET_SSID","value":"","isOptional":false},{"name":"SECRET_PASS","value":"","isOptional":false}],"cpu":{"name":"Arduino MKR WiFi 1010","com_name":"/dev/cu.usbmodem14201","fqbn":"arduino:samd:mkrwifi1010","flavour":"default"},"included_libs":[{"name":"DHT sensor library","version":"1.3.4"}]}
